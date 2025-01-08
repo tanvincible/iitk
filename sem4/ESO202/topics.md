@@ -1,4 +1,4 @@
-# Topics discussed in ECO111
+# Topics discussed in ESO202
 
 This is a comprehensive document outlining the various topics/questions discussed on a particular day throughout the semester 2024 - '25 II.
 
