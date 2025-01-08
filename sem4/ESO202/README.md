@@ -1,7 +1,7 @@
 # ESO202: Mechanics of Solids
 
 > [!IMPORTANT]
-> [ESO202](https://github.com/tanvincible/iitk/tree/main/sem3/ESO202) will be regularly updated as the course progresses.
+> [ESO202](https://github.com/tanvincible/iitk/tree/main/sem4/ESO202) will be regularly updated as the course progresses.
 
 ## Overview
 
@@ -18,15 +18,15 @@ Most of the notes are written in [LaTeX](https://www.latex-project.org/) and com
 
 ## Doubts
 
-Doubts are listed in [`doubts.md`](https://github.com/tanvincible/iitk/tree/main/sem3/ESO202/doubts.md).
+Doubts are listed in [`doubts.md`](https://github.com/tanvincible/iitk/tree/main/sem4/ESO202/doubts.md).
 
 Please note that doubts vary from person to person, as no two people process the same information in the same way.  
 Hence, these are **supplementary**.
 
 ## Tutorials
 
-Tutorial questions as well as solution can be found [here](https://github.com/tanvincible/iitk/tree/main/sem3/ESO202/tutorials).
+Tutorial questions as well as solution can be found [here](https://github.com/tanvincible/iitk/tree/main/sem4/ESO202/tutorials).
 
 ## Topics
 
-All the discussed topics are recorded date-wise [here](https://github.com/tanvincible/iitk/tree/main/sem3/ESO202/topics.md).
+All the discussed topics are recorded date-wise [here](https://github.com/tanvincible/iitk/tree/main/sem4/ESO202/topics.md).
