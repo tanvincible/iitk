@@ -1,24 +1,32 @@
 # ESO202: Mechanics of Solids
 
-This is a comprehensive document outlining the various topics/questions discussed on a particular day throughout the semester 2024 - '25 II.
+> [!IMPORTANT]
+> [ESO202](https://github.com/tanvincible/iitk/tree/main/sem3/ESO202) will be regularly updated as the course progresses.
 
-The list is arranged in the ascending order (in terms of dates) for easier navigation.
+## Overview
+
+Course number: ESO202  
+Course Name: Mechanics of Solids  
+Instructor: Prof. Gaurav Tiwari
 
 ## Notes
 
-Descriptive notes of each day are also provided [here]().  
+Descriptive notes of each day are provided [here]().  
 Most of the notes are written in [LaTeX](https://www.latex-project.org/) and compiled in pdf form.
 
 <!--TODO: Add Notes-->
 
-## January 08, 2025
+## Doubts
 
-As it was the first class, only a biref overview of the following topics was provided.
+Doubts are listed in [`doubts.md`](https://github.com/tanvincible/iitk/tree/main/sem3/ESO202/doubts.md).
 
-- Newton's Laws
-- Force & motion
-- Moment of a Force
-- Moment due to a Force Couple
-- Conditions of equilibrium:
-    - For a particle
-    - For a solid body
+Please note that doubts vary from person to person, as no two people process the same information in the same way.  
+Hence, these are **supplementary**.
+
+## Tutorials
+
+Tutorial questions as well as solution can be found [here](https://github.com/tanvincible/iitk/tree/main/sem3/ESO202/tutorials).
+
+## Topics
+
+All the discussed topics are recorded date-wise [here](https://github.com/tanvincible/iitk/tree/main/sem3/ESO202/topics.md).

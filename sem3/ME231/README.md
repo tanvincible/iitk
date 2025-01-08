@@ -1,28 +1,32 @@
 # ME231: Fluid Mechanics
 
-This is a comprehensive document outlining the various topics/questions discussed on a particular day throughout the semester 2024 - '25 II.
+> [!IMPORTANT]
+> [ME231](https://github.com/tanvincible/iitk/tree/main/sem3/ME231) will be regularly updated as the course progresses.
 
-The list is arranged in the ascending order (in terms of dates) for easier navigation.
+## Overview
+
+Course number: ME231  
+Course Name: Fluid Mechanics  
+Instructor: Prof. Anikesh Pal
 
 ## Notes
 
-Descriptive notes of each day are also provided [here]().  
+Descriptive notes of each day are provided [here]().  
 Most of the notes are written in [LaTeX](https://www.latex-project.org/) and compiled in pdf form.
 
 <!--TODO: Add Notes-->
 
-## January 08, 2025
+## Doubts
 
-As it was the first class, only a biref overview of the following topics was provided.
+Doubts are listed in [`doubts.md`](https://github.com/tanvincible/iitk/tree/main/sem3/ME231/doubts.md).
 
-- Fluid & its properties
-- Viscosity and its types
-- Bernoull's equation
-- Tensors
-- Ideal fluid
-- Continuity equation
-- Partial Differential Equations (PDEs)
-- Energy in terms of temperature (internal energy) and density
-- Laplacian
-- Navier Stokes Equation
-- Vorticity
+Please note that doubts vary from person to person, as no two people process the same information in the same way.  
+Hence, these are **supplementary**.
+
+## Tutorials
+
+Tutorial questions as well as solution can be found [here](https://github.com/tanvincible/iitk/tree/main/sem3/ME231/tutorials).
+
+## Topics
+
+All the discussed topics are recorded date-wise [here](https://github.com/tanvincible/iitk/tree/main/sem3/ME231/topics.md).

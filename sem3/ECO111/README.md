@@ -1,28 +1,32 @@
 # ECO111: Economy, Society and Public Policy
 
-This is a comprehensive document outlining the various topics/questions discussed on a particular day throughout the semester 2024 - '25 II.
+> [!IMPORTANT]
+> [ECO111](https://github.com/tanvincible/iitk/tree/main/sem3/ECO111) will be regularly updated as the course progresses.
 
-The list is arranged in the ascending order (in terms of dates) for easier navigation.
+## Overview
+
+Course number: ECO111  
+Course Name: Economy, Society and Public Policy  
+Instructor: Prof. Sounak Thakur
 
 ## Notes
 
-Descriptive notes of each day are also provided [here]().  
+Descriptive notes of each day are provided [here]().  
 Most of the notes are written in [LaTeX](https://www.latex-project.org/) and compiled in pdf form.
 
 <!--TODO: Add Notes-->
 
-## January 06, 2025
+## Doubts
 
-As it was the first class, only a biref overview of the following topics was provided.
+Doubts are listed in [`doubts.md`](https://github.com/tanvincible/iitk/tree/main/sem3/ECO111/doubts.md).
 
-- Introduction
-    - What's Economics
-    - Real-World Issues Economists Study
-    - Economics as a Social Science
-    - The Story of Man: Evolution
+Please note that doubts vary from person to person, as no two people process the same information in the same way.  
+Hence, these are **supplementary**.
 
-## January 08, 2025
+## Tutorials
 
-- The Size of the Economy
-- Inequality
-    - Technological Revolution
+Tutorial questions as well as solution can be found [here](https://github.com/tanvincible/iitk/tree/main/sem3/ECO111/tutorials).
+
+## Topics
+
+All the discussed topics are recorded date-wise [here](https://github.com/tanvincible/iitk/tree/main/sem3/ECO111/topics.md).
