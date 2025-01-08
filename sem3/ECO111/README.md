@@ -1,4 +1,4 @@
-# ESO202: Mechanics of Solids
+# ECO111: Economy, Society and Public Policy
 
 This is a comprehensive document outlining the various topics/questions discussed on a particular day throughout the semester 2024 - '25 II.
 
@@ -11,14 +11,18 @@ Most of the notes are written in [LaTeX](https://www.latex-project.org/) and com
 
 <!--TODO: Add Notes-->
 
-## January 08, 2025
+## January 06, 2025
 
 As it was the first class, only a biref overview of the following topics was provided.
 
-- Newton's Laws
-- Force & motion
-- Moment of a Force
-- Moment due to a Force Couple
-- Conditions of equilibrium:
-    - For a particle
-    - For a solid body
+- Introduction
+    - What's Economics
+    - Real-World Issues Economists Study
+    - Economics as a Social Science
+    - The Story of Man: Evolution
+
+## January 08, 2025
+
+- The Size of the Economy
+- Inequality
+    - Technological Revolution

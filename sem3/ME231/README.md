@@ -15,8 +15,6 @@ Most of the notes are written in [LaTeX](https://www.latex-project.org/) and com
 
 As it was the first class, only a biref overview of the following topics was provided.
 
-### Topics discussed
-
 - Fluid & its properties
 - Viscosity and its types
 - Bernoull's equation
