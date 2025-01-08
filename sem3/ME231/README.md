@@ -4,7 +4,12 @@ This is a comprehensive document outlining the various topics/questions discusse
 
 The list is arranged in the ascending order (in terms of dates) for easier navigation.
 
-Descriptive notesn of each day are also provided under the date on which the particular lecture/tutorial was held.
+## Notes
+
+Descriptive notes of each day are also provided [here]().  
+Most of the notes are written in [LaTeX](https://www.latex-project.org/) and compiled in pdf form.
+
+<!--TODO: Add Notes-->
 
 ## January 08, 2025
 
