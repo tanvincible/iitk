@@ -13,3 +13,9 @@ As it was the first class, only a biref overview of the following topics was pro
 - Conditions of equilibrium:
     - For a particle
     - For a solid body
+
+### January 09, 2025
+
+- Free Body Diagrams (FBDs)
+- Types of support
+- Reactive moments and forces
