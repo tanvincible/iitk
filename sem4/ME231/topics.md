@@ -2,7 +2,7 @@
 
 This is a comprehensive document outlining the various topics/questions discussed on a particular day throughout the semester 2024 - '25 II.
 
-## January 08, 2025
+### January 08, 2025
 
 As it was the first class, only a biref overview of the following topics was provided.
 
@@ -17,3 +17,13 @@ As it was the first class, only a biref overview of the following topics was pro
 - Laplacian
 - Navier Stokes Equation
 - Vorticity
+
+### January 09, 2025
+
+- Fluid as a Continuum
+- Scales associated with a fluid mechanical system
+    - Length Scale
+    - Velocity Scale
+    - Time Scale
+- Knudsen Number
+- Reynolds Number
