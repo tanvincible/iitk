@@ -12,7 +12,7 @@ Instructor: Prof. Koteswar Rao Jerripothula
 ## Notes
 
 Descriptive notes of each day are provided [here]().  
-Most of the notes are written in [LaTeX](https://www.latex-project.org/) and compiled in pdf form.
+Some notes are hand-written, some in [LaTeX](https://www.latex-project.org/) and compiled in pdf form.
 
 <!--TODO: Add Notes-->
 
