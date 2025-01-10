@@ -4,6 +4,10 @@ This is a comprehensive document outlining the various topics/questions discusse
 
 ### January 07, 2025
 
-As it was the first class, only a biref overview of the following topics was provided.
+As it was the first class, only a biref overview of the course was given.
 
-<!--TODO: Add the discussed topics-->
+### January 10, 2025
+
+- Image creation
+- Image filtering
+  - Types of filters
