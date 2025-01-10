@@ -27,3 +27,12 @@ As it was the first class, only a biref overview of the following topics was pro
     - Time Scale
 - Knudsen Number
 - Reynolds Number
+
+### January 10, 2025
+
+- Newton's Law of Viscosity
+- Boundary layers
+- Tensors
+- Stress Fields
+- Shear Stress
+    - How Shear Stress is calculated from deformation/strain rate?
