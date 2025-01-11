@@ -33,6 +33,6 @@ As it was the first class, only a biref overview of the following topics was pro
 - Newton's Law of Viscosity
 - Boundary layers
 - Tensors
-- Stress & Velocity Fields
+- Stress Field
 - Shear Stress
     - How Shear Stress is calculated from deformation/strain rate?

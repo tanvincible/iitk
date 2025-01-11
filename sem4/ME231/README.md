@@ -7,7 +7,8 @@
 
 Course number: ME231  
 Course Name: Fluid Mechanics  
-Instructor: Prof. Anikesh Pal
+Instructor: [Prof. Anikesh Pal](https://www.iitk.ac.in/new/anikesh-pal)  
+Textbook: [Fox and McDonald′s Introduction to Fluid Mechanics](https://www.google.co.in/books/edition/Fox_and_McDonald_s_Introduction_to_Fluid/2gFhBgAAQBAJ?hl=en)
 
 ## Notes
 
