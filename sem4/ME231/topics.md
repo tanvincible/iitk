@@ -36,3 +36,11 @@ As it was the first class, only a biref overview of the following topics was pro
 - Stress Field
 - Shear Stress
     - How Shear Stress is calculated from deformation/strain rate?
+
+### January 13, 2025
+
+- Viscosity
+    - Newtonian Fluids
+    - Non Newtonian Fluids
+- Basic Equations of Fluid Statics
+- Standard Atmosphere
