@@ -18,4 +18,8 @@ As it was the first class, only a biref overview of the following topics was pro
 
 - Four-link Planar Mechanisms
 - Mobility
-    - Grubler's Criterion
+    - Kutzbach Equation and Grubler's Criterion
+
+### January 13, 2024
+
+- Range of Movements

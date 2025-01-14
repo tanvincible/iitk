@@ -7,7 +7,8 @@
 
 Course number: ME252  
 Course Name: Theory of Mechanisms and Machines  
-Instructor: Prof. Anindya Chatterjee
+Instructor: [Prof. Anindya Chatterjee]()  
+Textbook: [Theory of Mechanisms and Machines by Amitabha Ghosh, Asok Kumar Mallik](https://www.google.co.in/books/edition/Theory_of_Mechanisms_and_Machines/mQLYAAAACAAJ?hl=en)
 
 ## Notes
 
@@ -25,8 +26,8 @@ Hence, these are **supplementary**.
 
 ## Tutorials
 
-Tutorial questions as well as solution can be found [here](https://github.com/tanvincible/iitk/tree/main/sem4/ME252/tutorials).
+Tutorial questions as well as solution can be found [`tutoriala/`](https://github.com/tanvincible/iitk/tree/main/sem4/ME252/tutorials).
 
 ## Topics
 
-All the discussed topics are recorded date-wise [here](https://github.com/tanvincible/iitk/tree/main/sem4/ME252/topics.md).
+All the discussed topics are recorded date-wise [`topics.md`](https://github.com/tanvincible/iitk/tree/main/sem4/ME252/topics.md).
