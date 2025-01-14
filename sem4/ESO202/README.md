@@ -7,7 +7,8 @@
 
 Course number: ESO202  
 Course Name: Mechanics of Solids  
-Instructor: Prof. Gaurav Tiwari
+Instructor: [Prof. Gaurav Tiwari](https://www.iitk.ac.in/new/gaurav-tiwari)  
+Textbook: [An Introduction to Mechanics of Solids (in SI units)](https://pkklib.iitk.ac.in/index.php/resources/e-books/e-text-books/33701:mechanics-of-solids-in-si-units)
 
 ## Notes
 

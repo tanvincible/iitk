@@ -19,3 +19,10 @@ As it was the first class, only a biref overview of the following topics was pro
 - Free Body Diagrams (FBDs)
 - Types of support
 - Reactive moments and forces
+
+### January 13, 2025
+
+- Truss
+- Analysis of Truss
+    - Method of Joints
+    - Method of Sections
