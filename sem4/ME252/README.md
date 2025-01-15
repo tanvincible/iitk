@@ -26,7 +26,7 @@ Hence, these are **supplementary**.
 
 ## Tutorials
 
-Tutorial questions as well as solution can be found [`tutoriala/`](https://github.com/tanvincible/iitk/tree/main/sem4/ME252/tutorials).
+Tutorial questions as well as solution can be found [`tutorials/`](https://github.com/tanvincible/iitk/tree/main/sem4/ME252/tutorials).
 
 ## Topics
 
