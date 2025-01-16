@@ -44,3 +44,8 @@ As it was the first class, only a biref overview of the following topics was pro
     - Non Newtonian Fluids
 - Basic Equations of Fluid Statics
 - Standard Atmosphere
+
+### January 15, 2025
+
+- Pressure in Manometer
+- Hydrostatic pressure in submerged surfaces

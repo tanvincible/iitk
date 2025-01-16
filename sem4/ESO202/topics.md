@@ -26,3 +26,7 @@ As it was the first class, only a biref overview of the following topics was pro
 - Analysis of Truss
     - Method of Joints
     - Method of Sections
+
+### January 14, 2025
+
+It was a tutorial class.

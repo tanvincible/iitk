@@ -18,3 +18,11 @@ As it was the first class, only a biref overview of the following topics was pro
 
 - Measuring national income
 - Real and Nominal GDP
+
+### January 15, 2025
+
+- Introduction to Game Theory
+
+### January 16, 2025
+
+- Nash Equilibrium
