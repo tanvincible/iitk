@@ -27,6 +27,14 @@ As it was the first class, only a biref overview of the following topics was pro
     - Method of Joints
     - Method of Sections
 
-### January 14, 2025
+### January 15, 2025
 
 It was a tutorial class.
+
+### January 16, 2025
+
+<!--TODO: Add the discussed topics-->
+
+### January 17, 2025
+
+<!--TODO: Add the discussed topics-->
