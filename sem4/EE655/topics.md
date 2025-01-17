@@ -11,3 +11,9 @@ As it was the first class, only a biref overview of the course was given.
 - Image creation
 - Image filtering
   - Types of filters
+
+### January 17, 2025
+
+- Convolution
+- Image gradient
+- Edges
